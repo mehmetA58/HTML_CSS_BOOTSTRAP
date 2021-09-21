@@ -1,0 +1,47 @@
+                .thead {
+                background-color: black;
+                color: blue;
+            }
+            
+            .head {
+                background-color: black;
+                color: white;
+            }
+            
+            .foot {
+                background-color: black;
+                color: white;
+                text-align: right;
+            }
+            
+            .koyu {
+                background-color: gray;
+            }
+            
+            th,
+            td {
+                width: 100px;
+                line-height: 1.5em;
+            }
+            
+            .genis {
+                width: 200px;
+            }
+            
+            .ortala {
+                text-align: center;
+                width: 50px;
+            }
+            
+            .sag {
+                text-align: right;
+            }
+            
+            .a {
+                text-align: center;
+                background-color: coral;
+                color: white;
+                border: none;
+                width: 170px;
+                padding: 0.5em;
+                margin-right: 0px;
