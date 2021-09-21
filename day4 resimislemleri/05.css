@@ -14,6 +14,11 @@ body {
     color: black;
 }
 
+.aktif a {
+    background-color: rgb(58, 58, 58);
+    color: white;
+}
+
 .aktif {
     background-color: rgb(58, 58, 58);
     color: white;
